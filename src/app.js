@@ -1,12 +1,13 @@
 import './app.css'
-import Nav from './nav'
+import "bootstrap/dist/css/bootstrap.min.css";
+import Navigation from './Navigation'
 import LoginForm from './LoginForm'
 
 
 function App() {
   return (
     <div className="App">
-      <Nav></Nav>
+      <Navigation></Navigation>
       <LoginForm></LoginForm>
     </div>
   );
