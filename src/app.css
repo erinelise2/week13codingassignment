@@ -1,0 +1,23 @@
+.app {
+    text-align: center;
+}
+
+.app-header {
+    background-color: rgb(111, 216, 151);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.app-link {
+    color: rgb(137, 137, 223);
+}
+
+html {
+    background-color: rgb(203, 248, 233);
+}
+
