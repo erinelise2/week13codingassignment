@@ -1,6 +1,6 @@
 import './app.css'
+import LoginForm from './LoginForm'
 import Nav from './nav'
-import Section from './section'
 
 
 function App() {
