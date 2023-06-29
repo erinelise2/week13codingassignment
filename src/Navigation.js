@@ -5,7 +5,7 @@ export default class Navigation extends Component {
   render() {
     return (
       <nav className="navBar">
-        <div class="container">
+        <div >
           <ul>
             <li className="nav-item active">
               <a className="nav-link" href="#home" target="_blank" rel="noreferrer">Home</a>
