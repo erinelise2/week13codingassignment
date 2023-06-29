@@ -1,11 +1,12 @@
 import './app.css'
-import LoginForm from './LoginForm'
 import Nav from './nav'
+import LoginForm from './LoginForm'
 
 
 function App() {
   return (
     <div className="App">
+      <Nav></Nav>
       <LoginForm></LoginForm>
     </div>
   );

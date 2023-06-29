@@ -1,4 +1,6 @@
 import React, {Component} from 'react'
+import Nav from "react-bootstrap/Nav";
+
 
 export default class Nav extends Component {
   render() {
@@ -18,6 +20,6 @@ export default class Nav extends Component {
           </ul>
         </div>
       </nav>
-    )
+    );
   }
-}
+};
